@@ -4,7 +4,7 @@ MAHAMMAD ANAS
 - 🌱 I’m a bca 1st sem student from assam's village area.<br>
 - 💞️ I’m am here to explore things.<br>
 - 📫 How to reach me ... iamanasok@gmail.com<br>
-- insta id itx_faruk_akthar
+- 
 
 <!---
 itx-anas/itx-anas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
